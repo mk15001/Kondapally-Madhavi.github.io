@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "123.JPG"
   name             : "Kondapally Madhavi"
-  pronouns         : "Mrs"  
+  pronouns         : #"Mrs"  
   bio              : "PhD Scholar, Indian Institute of Technology, Hyderabad"
   location         : "Hyderabad, Telangana, India"
   employer         : "Indian Institute of Technology, Hyderabad"
