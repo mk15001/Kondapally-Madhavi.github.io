@@ -7,7 +7,7 @@ excerpt: 'We introduce a pioneering solution, the Multi-Scale Adaptive Transform
 date: 2024-06-30
 venue: '2024 International Joint Conference on Neural Networks (IJCNN)'
 paperurl: https://doi.org/10.1109/IJCNN60899.2024.10651445
-citation: 'M. Kondapally, K. N. Kumar and C. Krishna Mohan, "Object Detection in Transitional Weather Conditions for Autonomous Vehicles," 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, 2024, pp. 1-8'
+citation: 'M. Kondapally, K. N. Kumar and C. Krishna Mohan, "Object Detection in Transitional Weather Conditions for Autonomous Vehicles," 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, 2024, pp. 1-8.'
 ---
 
 
