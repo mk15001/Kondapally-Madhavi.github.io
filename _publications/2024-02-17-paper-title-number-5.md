@@ -1,12 +1,12 @@
 ---
-title: "TransWardX: An Explainable Black-box Object Detection Attack for Autonomous Driving in Transitional Weather Conditions"
+title: "Sentimental Analysis on Twitter Data Using Hadoop with Spring Web MVC"
 collection: publications
-category: workshops
-permalink: /_publications/2024-02-17-paper-title-number-4
-excerpt: 'We propose a novel minimalistic method called explainable black-box adversarial detection attack in transitional weather conditions for autonomous driving (TransWardX)'
-date: 2024-12-06
-venue: 'ICPR Workshops 2024'
-paperurl: '/files/TransWardX_An Explainable Black-box Object Detection.pdf'
-citation: 'Kondapally Madhavi, K Naveen Kumar, C Krishna Mohan, TransWardX: An Explainable Black-box Object Detection Attack for Autonomous Driving in Transitional Weather Conditions, International Conference on Pattern Recognition Workshops, ICPRW proceedings, India, 2024'
+category: conferences
+permalink: /_publications/2024-02-17-paper-title-number-5
+excerpt: 'This paper primarily consists of live stream data generation, process and visualization through GUI based application for the results. Output will be visualized through Google Charts. Opinion tweet results will be displayed in the form of pie charts.'
+date: 2020-08-11
+venue: ' Advances in Intelligent Systems and Computing (Springer Nature) 2020'
+paperurl: 'https://doi.org/10.1007/978-981-15-5400-1_28'
+citation: 'RaviKiran Ramaraju, Kondapally Madhavi, G. Ravi, Sentimental Analysis on Twitter Data Using Hadoop with Spring Web MVC. Intelligent System Design. Advances in Intelligent Systems and Computing (Springer Nature), vol 1171. Springer, Singapore, pp. 265–273, 2020'
 ---
 
