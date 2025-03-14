@@ -1,7 +1,7 @@
 ---
 title: "Towards a Transitional Weather Scene Recognition Approach for Autonomous Vehicles"
 collection: publications
-category: journal
+category: journals
 permalink: /_publications/2009-10-01-paper-title-number-1
 excerpt: 'This paper proposes an approach to define and understand six intermediate weather transition states: sunny to rainy, rainy to sunny, and others. Firstly, we propose a way to interpolate the intermediate weather transition data using a variational autoencoder and extract its spatial features using VGG. Further, we model the temporal distribution of these spatial features using a gated recurrent unit to classify the corresponding transition state. Also, we introduce a large-scale dataset called the AIWD6: Adverse Intermediate Weather Driving dataset, generated for three different time intervals.'
 date: 2024-10-01
