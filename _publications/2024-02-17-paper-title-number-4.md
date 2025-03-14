@@ -2,7 +2,7 @@
 title: "TransWardX: An Explainable Black-box Object Detection Attack for Autonomous Driving in Transitional Weather Conditions"
 collection: publications
 category: workshops
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /_publications/2024-02-17-paper-title-number-4
 excerpt: 'We propose a novel minimalistic method called explainable black-box adversarial detection attack in transitional weather conditions for autonomous driving (TransWardX)'
 date: 2024-12-06
 venue: 'ICPR Workshops 2024'
