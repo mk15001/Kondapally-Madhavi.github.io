@@ -1,7 +1,7 @@
 ---
 title: "Weather Scene Perception for Autonomous Vehicles"
 collection: publications
-category: workshop
+category: workshops
 permalink: /_publications/2015-10-01-paper-title-number-3
 excerpt: 'This paper introduces a  weather classification framework using recurrent neural networks'
 date: 2024-02-05
