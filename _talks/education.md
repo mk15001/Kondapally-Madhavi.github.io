@@ -8,7 +8,7 @@ permalink: /education/
 # Education  
 
 ## Doctor of Philosophy (PhD) 
-**Indian Institute of Technology Hyderabad (IIT Hyderabad) ** – Computer Science & Engineering  
+**Indian Institute of Technology Hyderabad (IIT Hyderabad)** – Computer Science & Engineering  
 **Aug 2021 – Present** | Hyderabad, India  
 - **Thesis:** Scene Perception for Autonomous Vehicle Technology in Transitional Weather Conditions  
 - **Supervisor:** Prof. C Krishna Mohan  
