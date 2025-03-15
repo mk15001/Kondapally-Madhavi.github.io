@@ -1,4 +1,10 @@
-```markdown
+---
+title: "Education"
+collection: education
+type: "Education"
+permalink: /education/
+---
+
 # Education  
 
 ## Indian Institute of Technology Hyderabad (IIT Hyderabad)  
@@ -18,4 +24,4 @@
 **Bachelor of Technology (BTech)** – Information Technology  
 **June 2002 – Apr 2006** | Warangal, India  
 - **Percentage:** 73%  
-```
+
