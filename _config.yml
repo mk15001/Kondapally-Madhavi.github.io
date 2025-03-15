@@ -13,7 +13,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kondapally Madhavi"
 description              : &description "personal description"
-url                      : https://mk15001.github.io/Kondapally-Madhavi.github.io/
+url                      : https://mk15001/Kondapally-Madhavi.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "/mk15001/Kondapally-Madhavi.github.io/"
 
