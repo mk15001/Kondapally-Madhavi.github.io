@@ -22,7 +22,7 @@ Technical Skills
 2. Programming & Libraries: Python, TensorFlow, PyTorch, and OpenCV
 
 Additional Information
-------
+======
 1. Teaching Assistant for the below courses offered by Prof. C Krishna Mohan (PhD supervisor) at IIT Hyderabad
      
     ∗ CS6450 - Visual Computing
