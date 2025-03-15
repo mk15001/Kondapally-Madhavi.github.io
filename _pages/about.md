@@ -25,20 +25,21 @@ Additional Information
 ------
 1. Teaching Assistant for the below courses offered by Prof. C Krishna Mohan (PhD supervisor) at IIT Hyderabad
      
-  ∗ CS6450 - Visual Computing
+    ∗ CS6450 - Visual Computing
   
-  ∗ CS6140 - Video Content Analysis
+    ∗ CS6140 - Video Content Analysis
   
-  ∗ CS6170 - Computer Vision for Autonomous Vehicle Technology
+    ∗ CS6170 - Computer Vision for Autonomous Vehicle Technology
   
-  ∗ CS6870 - Surveillance Video Analytics
+    ∗ CS6870 - Surveillance Video Analytics
   
 2. External Reviewer
-  ∗ IEEE International Joint Conference on Neural Networks (2024)
+   
+    ∗ IEEE International Joint Conference on Neural Networks (2024)
 
-  ∗ IEEE Intelligent Transportation Systems Conference (2024)
+    ∗ IEEE Intelligent Transportation Systems Conference (2024)
   
-  ∗ Elsevier Neurocomputing (2023)
+    ∗ Elsevier Neurocomputing (2023)
 
 3. Student member of the International Neural Network Society (INNS)
 
