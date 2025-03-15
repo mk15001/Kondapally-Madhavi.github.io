@@ -33,13 +33,13 @@ Additional Information
   
   ∗ CS6870 - Surveillance Video Analytics
   
-3. External Reviewer
+2. External Reviewer
   ∗ IEEE International Joint Conference on Neural Networks (2024)
 
   ∗ IEEE Intelligent Transportation Systems Conference (2024)
   
   ∗ Elsevier Neurocomputing (2023)
 
-3 Student member of the International Neural Network Society (INNS)
+3. Student member of the International Neural Network Society (INNS)
 
 
