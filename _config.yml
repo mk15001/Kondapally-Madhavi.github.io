@@ -272,12 +272,11 @@ defaults:
   # Education
   - scope:
       path: ""
-      type: Education
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
