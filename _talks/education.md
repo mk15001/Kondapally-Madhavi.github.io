@@ -1,8 +1,8 @@
 ---
 title: "Education"
-collection: education
+collection: talks
 type: "Education"
-permalink: /education/
+permalink: /talks/
 ---
 
 # Education  
