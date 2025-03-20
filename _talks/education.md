@@ -2,7 +2,7 @@
 title: "Education"
 collection: talks
 type: "Education"
-permalink: /talks/education.md
+permalink: /_talks/education.md
 ---
 
 # Education  
