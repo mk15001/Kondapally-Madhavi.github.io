@@ -10,6 +10,7 @@ location: "Hyderabad, India"
 
 Worked as an Assistant Professor in the Department of Information Technology from February 18, 2015, to August 15, 2021, teaching various subjects, including Data Structures, Java, Big Data, and Machine Learning.
 Attended various certification courses in Machine Learning, Deep Learning, Python Programming, and Java.
+
 Heading 1
 ======
 
