@@ -1,5 +1,4 @@
 ---
-title: "Teaching"
 collection: teaching
 type: "Assistance Professor"
 permalink: /teaching/2014-spring-teaching-1
