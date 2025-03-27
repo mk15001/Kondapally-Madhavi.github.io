@@ -1,6 +1,7 @@
 ---
+title: Assistant Professor
 collection: teaching
-type: "Assistance Professor"
+type: "Assistant Professor"
 permalink: /teaching/2014-spring-teaching-1
 venue: "B.V Raju Institute of Technology, Narsapur, Department of IT"
 date: 2015-02-18
