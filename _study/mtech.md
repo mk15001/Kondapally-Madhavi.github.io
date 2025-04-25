@@ -3,7 +3,7 @@ title: "Master of Technology"
 collection: talks
 type: "Department of Computer Science and Engineering"
 Percentage: "73"
-permalink: /study/mtech
+permalink: /_study/mtech
 venue: "Jawaharlal Nehru Technological University, Hyderabad (JNTU Hyderabad)"
 date: 2010-12-31
 location: "Hyderabad, Telangana, India"
