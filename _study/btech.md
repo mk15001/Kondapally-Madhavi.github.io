@@ -1,6 +1,6 @@
 ---
 title: "Bachelor of Technology"
-collection: study
+collection: _study
 type: "Department of Information Technology"
 Percentage: "73"
 permalink: /study/btech
