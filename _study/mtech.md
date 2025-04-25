@@ -1,6 +1,6 @@
 ---
 title: "Master of Technology"
-collection: _study
+collection: study
 type: "Department of Computer Science and Engineering"
 Percentage: "73"
 permalink: /study/mtech
