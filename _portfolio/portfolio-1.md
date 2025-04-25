@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "TiHAN IIT Hyderabad - Design and Development of Road Element Segmentation and Language Guided Vision Models for Safe Autonomous Driving in Adverse Weather Conditions"
+excerpt: "Current ADAS systems perform well in clear weather but struggle under adverse (rain, fog, snow) and transitional weather (e.g., cloudy to rainy) conditions. These scenarios pose challenges like sudden visibility shifts and lighting changes, which can mislead perception systems and reduce safety. While extreme weather has been studied, transitional conditions—common in real-world driving—remain underexplored. They introduce unique issues like intermittent rain or fog that obscure road features subtly but significantly. Existing models using domain adaptation often fail to generalize due to limited weather diversity in training data. Our work addresses this by targeting both semantic and instance segmentation in transitional weather, offering a more resilient approach to weather-induced uncertainty. We also aim to improve ADAS interpretability and scene understanding using Vision-Language Models (VLMs). However, current VLMs rely on heavy architectures unsuitable for real-time deployment. This project proposes a lightweight, efficient VLM that meets ADAS timing and resource constraints. Additionally, single-frame analysis in current systems lacks the temporal context needed for dynamic scenarios. We incorporate multi-frame analysis to capture gradual environmental changes—like fog lifting or puddles forming—improving detection and decision-making. Finally, our approach enhances interpretability through VQA, allowing systems to answer questions like "What is blocking the road?" or "Is it safe to turn left?", making ADAS more transparent and trustworthy."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
