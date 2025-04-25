@@ -6,7 +6,7 @@
 
 main:
   - title: "Education"
-    url: /talks/_education/    
+    url: /study/    
 
   - title: "Experience"
     url: /teaching/    
