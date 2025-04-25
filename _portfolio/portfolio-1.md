@@ -1,7 +1,7 @@
 ---
 title: "Design and Development of Road Element Segmentation and Language Guided Vision Models for Safe Autonomous Driving in Adverse Weather Conditions"
 
-excerpt: "Project grant from TiHAN IIT Hyderabad for a budget of 12,00,000"
+excerpt: "Senior Research Assistant for the Project grant from TiHAN IIT Hyderabad with the budget of 12,00,000"
 
 collection: portfolio
 ---
