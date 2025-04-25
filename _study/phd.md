@@ -1,6 +1,6 @@
 ---
 title: "Doctor of Philosophy (PhD)"
-collection: talks
+collection: study
 type: "Department of Computer Science and Engineering"
 guide: "Prof. C Krishna Mohan"
 CGPA: "9.25"
