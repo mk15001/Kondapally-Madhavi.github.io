@@ -4,7 +4,7 @@ collection: talks
 type: "Department of Computer Science and Engineering"
 guide: "Prof. C Krishna Mohan"
 CGPA: "9.25"
-permalink: /talks/2012-03-01-talk-1
+permalink: /study/phd
 venue: "Indian Institute of Technology Hyderabad (IIT Hyderabad)"
 date: 2021-08-01
 location: "Hyderabad, Telangana, India"
