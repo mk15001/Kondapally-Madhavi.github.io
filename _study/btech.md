@@ -1,9 +1,9 @@
 ---
 title: "Bachelor of Technology"
-collection: talks
+collection: study
 type: "Department of Information Technology"
 Percentage: "73"
-permalink: /_study/btech
+permalink: /study/btech
 venue: "Kakatiya University, Warangal"
 date: 2006-04-01
 location: "Warangal, Telangana, India"
