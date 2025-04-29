@@ -52,6 +52,7 @@ Autonomous Vehicle Technology
 
 Medical AI Applications
 
+<img src="1001.png" width="800">
 
 
 
