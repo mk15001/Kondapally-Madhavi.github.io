@@ -43,9 +43,16 @@ Additional Information
 
 3. Student member of the International Neural Network Society (INNS)
 
-Research Domain: Autonomous Vehicle Technology
+Research Areas: 
 ======
+Autonomous Vehicle Technology
 
 <img src="image1.gif" width="800">
 <img src="output3.gif" width="800">
+
+Medical AI Applications
+
+
+
+
 
