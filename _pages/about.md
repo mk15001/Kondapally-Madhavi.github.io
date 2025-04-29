@@ -43,5 +43,5 @@ Additional Information
 
 3. Student member of the International Neural Network Society (INNS)
 
-<img src="transitions.png" width="800">
+<img src="/images/transitions.png" width="800">
 
