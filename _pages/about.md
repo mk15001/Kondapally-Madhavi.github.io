@@ -46,6 +46,6 @@ Additional Information
 Research Domain: Autonomous Vehicle Technology
 ======
 
-<img src="/images/image1.gif" width="800">
-<img src="/images/output3.gif" width="800">
+<img src="image1.gif" width="800">
+<img src="output3.gif" width="800">
 
