@@ -9,12 +9,6 @@ redirect_from:
 
 Mrs. K. Madhavi is a passionate researcher in the fields of artificial intelligence (AI) and machine learning (ML), with a strong emphasis on computer vision. She is currently pursuing her Ph.D. in the Department of Computer Science and Engineering at the esteemed Indian Institute of Technology Hyderabad (IIT Hyderabad). She earned her Master’s degree in Computer Science and Engineering from JNTU Hyderabad, following a Bachelor’s degree in Information Technology from Kakatiya University, Warangal. Her research interests center on scene perception and path planning for autonomous vehicles, particularly in adverse weather conditions. Mrs. Madhavi has made notable contributions to her field through publications in respected venues such as the IEEE Transactions on Intelligent Transportation Systems, the International Joint Conference on Neural Networks (IJCNN) and the International Conference on Pattern Recognition (ICPR) Workshops. She has also developed a transitional weather dataset for autonomous driving, filed two patents, and served as an external reviewer for renowned platforms like IJCNN and journals including Neurocomputing. Prior to her Ph.D., she had accumulated nine years of teaching experience as an Assistant Professor in various academic institutions, enriching her academic foundation and contributing to the training of future engineers and researchers.
 
-Research Interests
-======
-1. Enhancing Autonomous Vehicle Technology in Transitional Weather Conditions
-2. Developing Vision Language Models for Advanced Driver Assistance Systems
-3. Causal Interventional Training for Autonomous Vehicle Technology in Transitional Weather Conditions
-4. Applying Vision LLMs for Medical AI Applications
 
 Technical Skills
 ======
@@ -43,15 +37,15 @@ Additional Information
 
 3. Student member of the International Neural Network Society (INNS)
 
-Research Areas: 
+Research Interests
 ======
-Autonomous Vehicle Technology
+1. Enhancing Autonomous Vehicle Technology in Transitional Weather Conditions
+2. Developing Vision Language Models for Advanced Driver Assistance Systems
+3. Causal Interventional Training for Autonomous Vehicle Technology in Transitional Weather Conditions
+4. Applying Vision LLMs for Medical AI Applications
 
 <img src="image1.gif" width="800">
 <img src="output3.gif" width="800">
-
-Medical AI Applications
-
 <img src="1001.png" width="800">
 
 
