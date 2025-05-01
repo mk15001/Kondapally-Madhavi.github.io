@@ -11,4 +11,4 @@ citation: 'M. Kondapally, K. N. Kumar, C. Vishnu and C. K. Mohan, "Towards a Tra
 ---
 Qulitative analysis of generated AIWD6 dataset
 <img src="transitions.png" width="800">
-👉 [Download the AIWD6 Dataset](https://github.com/mk15001/AIWD6-dataset)
+
