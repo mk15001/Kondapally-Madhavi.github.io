@@ -10,5 +10,5 @@ paperurl: https://doi.org/10.1109/TITS.2023.3331882
 citation: 'M. Kondapally, K. N. Kumar, C. Vishnu and C. K. Mohan, "Towards a Transitional Weather Scene Recognition Approach for Autonomous Vehicles," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 6, pp. 5201-5210, June 2024, doi: 10.1109/TITS.2023.3331882.'
 ---
 Qualitative analysis of the generated AIWD6 dataset
-<img src="transitions.png" width="800">
+<img src="/_publications/transitions.png" width="800">
 
